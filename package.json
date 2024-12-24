@@ -1,0 +1,25 @@
+{
+  "name": "homework-13",
+  "version": "1.0.0",
+  "main": "fetchUsers.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "keywords": [],
+  "author": "SpiridonovAY",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiridonovAY/HomeWork-13.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SpiridonovAY/HomeWork-13/issues"
+  },
+  "homepage": "https://github.com/SpiridonovAY/HomeWork-13#readme",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1",
+    "sinon": "^19.0.2"
+  }
+}
